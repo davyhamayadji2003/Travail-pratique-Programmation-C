@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1737015768 source:c:\users\hamayadji david\pictures\test-library\library.c
+	"library.h"
+
+1737015168 c:\users\hamayadji david\pictures\test-library\library.h
+
+1737015340 source:c:\users\hamayadji david\pictures\test-library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.c"
+
+1737015768 c:\users\hamayadji david\pictures\test-library\library.c
+	"library.h"
+
