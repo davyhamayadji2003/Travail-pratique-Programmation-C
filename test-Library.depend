@@ -2,13 +2,17 @@
 1737015768 source:c:\users\hamayadji david\pictures\test-library\library.c
 	"library.h"
 
-1737015168 c:\users\hamayadji david\pictures\test-library\library.h
+1737725411 c:\users\hamayadji david\pictures\test-library\library.h
 
-1737015340 source:c:\users\hamayadji david\pictures\test-library\main.c
+1737725602 source:c:\users\hamayadji david\pictures\test-library\main.c
 	<stdio.h>
 	<stdlib.h>
+	"library.h"
 	"library.c"
 
-1737015768 c:\users\hamayadji david\pictures\test-library\library.c
+1737725563 c:\users\hamayadji david\pictures\test-library\library.c
 	"library.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
 
